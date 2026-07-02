@@ -58,23 +58,6 @@ This opens `http://localhost:8501` in your browser automatically. If not, click 
 ## 9. Stopping the app
 Press `Ctrl+C` in the terminal.
 
-## 10. Push to GitHub (for your portfolio/resume link)
-```bash
-git init
-git add .
-git commit -m "Initial commit: AI Excel Assistant"
-git branch -M main
-git remote add origin https://github.com/<your-username>/ai-excel-assistant.git
-git push -u origin main
-```
-⚠️ Your `.gitignore` already excludes `venv/` and `.env` — never commit your API key.
-
-## 11. (Optional but recommended) Deploy it live
-1. Push the repo to GitHub (step 10)
-2. Go to https://share.streamlit.io → "New app" → connect your GitHub repo → select `app.py`
-3. In the deployed app's settings, add your API key under "Secrets" (don't hardcode it)
-4. You'll get a live public URL — put this directly on your resume and LinkedIn
-
 ## Troubleshooting
 | Problem | Fix |
 |---|---|
