@@ -64,7 +64,7 @@ To demonstrate practical, job-ready skills for a Data Analyst / BI Analyst role:
 - Integrating LLMs to make data analysis accessible via natural language
 
 ## Live demo
-[ai-excel.streamlit.app](https://ai-excel.streamlit.app)
+[ai-excel-assistant.streamlit.app](https://ai-excel-assistant.streamlit.app)
 
 ## 👤 Author
 
