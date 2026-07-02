@@ -17,10 +17,6 @@ Built as a portfolio project to demonstrate **data analysis (Pandas), data visua
 
 All tabs work standalone with pandas/plotly/sklearn — **no API key required** except for the chat assistant.
 
-## 🖼️ Screenshots
-
-*(Add 2–3 screenshots here after running the app — dashboard view, chat in action, and a chart/forecast. This section matters a lot for recruiters skimming your GitHub.)*
-
 ## 🛠️ Tech Stack
 
 - **Frontend/UI:** Streamlit
@@ -67,13 +63,12 @@ To demonstrate practical, job-ready skills for a Data Analyst / BI Analyst role:
 - Basic predictive analytics (trend forecasting)
 - Integrating LLMs to make data analysis accessible via natural language
 
-## 🔮 Possible Extensions
+## Live demo
+[ai-excel.streamlit.app](https://ai-excel.streamlit.app)
 
-- Add anomaly detection (e.g. outlier sales flags)
-- Support multi-sheet Excel workbooks
-- Add authentication + persist uploaded files per user
-- Deploy to Streamlit Community Cloud for a live demo link
+## 👤 Author
 
-## 📄 License
+**Vikash Verma**
+Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
 
-MIT — feel free to fork and build on this.
+---
