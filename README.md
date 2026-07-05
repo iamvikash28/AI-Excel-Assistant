@@ -55,14 +55,6 @@ ai-excel-assistant/
 └── README.md
 ```
 
-## 🎯 Why I Built This
-
-To demonstrate practical, job-ready skills for a Data Analyst / BI Analyst role:
-- Cleaning and profiling real-world messy data (duplicates, missing values)
-- Building pivot tables and visualizations without a BI tool
-- Basic predictive analytics (trend forecasting)
-- Integrating LLMs to make data analysis accessible via natural language
-
 ## Live demo
 [ai-excel-assistant.streamlit.app](https://ai-excel-assistant.streamlit.app)
 
